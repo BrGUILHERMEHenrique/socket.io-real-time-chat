@@ -1,5 +1,5 @@
 var socket = io('http://localhost:3000');
-let colors = ['#345434', '#567866'];
+let colors = ['#345434', '#567866', '#29b700', '#29b7ff', '#290085', '#ff0085', '#998185', '#00ffff'];
 
 //Prototype para random nas cores
 Array.prototype.randomElement = function(){
